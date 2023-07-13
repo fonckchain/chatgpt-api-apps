@@ -1,6 +1,6 @@
 <p align="center">
   <img width="180" src="./public/openai.png" alt="ChatGPT">
-  <h1 align="center"># ChatGPT API Applications</h1>
+  <h1 align="center">ChatGPT API Applications</h1>
   <p align="center">A collection of applications that utilize the OpenAI ChatGPT API. It serves as a showcase of various use-cases and implementations</p>
 </p>
 
