@@ -1,7 +1,7 @@
 # ChatGPT API Applications
 
 This repository contains a collection of applications that utilize the OpenAI ChatGPT API. It serves as a showcase of various use-cases and implementations.
-Forked from the (AI Advantage)[https://github.com/AIAdvantage].
+Forked from the [AI Advantage](https://github.com/AIAdvantage).
 
 ## Installation
 
