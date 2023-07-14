@@ -18,6 +18,7 @@ Clone the repository and navigate to the desired application's directory. Instal
 ```bash
 git clone https://github.com/fonckchain/chatgpt-api-apps.git
 pip install openai gradio
+```
 
 ## 📬 Contact
 
@@ -28,4 +29,3 @@ If you have any questions, feel free to contact me at AFonck@protonmail.com
 - [LangChain](https://www.langchain.com/)
 - [OpenAI](https://www.openai.com/)
 - Original guide made by [The AI Advantage](https://www.youtube.com/watch?v=pGOyw_M1mNE&list=PL4mzDJldtFs2DduP-SiPzkiC1RpoU175c&index=2&t=1s)
-```
